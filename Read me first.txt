@@ -1,3 +1,5 @@
 //Das Programm will von Ihnen Username und Password. sie konnen folgendes benutzen :
+//Vielleicht wenn sie das Programm starten ,wird es nicht funktionieren aber beim zweiten Versuch wird es ohne Probleme funktionieren
+//Ich habe Visual Studio benutzt.
 Username : User2
 Password : 1234
